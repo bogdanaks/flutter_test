@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:bubble_tab_indicator/bubble_tab_indicator.dart';
+
 import 'package:my_app/data/weapons.dart';
 
 import './widgets/TabButton.dart';
 import './widgets/TabScreen.dart';
 
-class WeaponPage extends StatelessWidget {
+class WeaponsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return (
@@ -16,8 +18,14 @@ class WeaponPage extends StatelessWidget {
           backgroundColor: Color.fromARGB(255, 42, 43, 55),
           bottom: TabBar(
             isScrollable: true,
-            indicatorColor: Color.fromARGB(255, 220, 221, 222),
-            indicatorWeight: 3,
+            labelColor: Colors.black,
+            unselectedLabelColor: Color.fromARGB(255, 125, 124, 124),
+            indicator: BubbleTabIndicator(
+              indicatorHeight: 25.0,
+              indicatorColor: Color.fromARGB(255, 220, 221, 222),
+              tabBarIndicatorSize: TabBarIndicatorSize.tab,
+              indicatorRadius: 1,
+            ),
             tabs: [
               TabButton(tabTitle: 'ASSAULT RIFLES'),
               TabButton(tabTitle: 'SMGS'),
