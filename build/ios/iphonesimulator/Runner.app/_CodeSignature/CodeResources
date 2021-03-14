@@ -86,7 +86,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		twC64jbSJpOmNRtQpPz9IM+fETE=
+		e1b+PYFpV+pPHe6Ks7PR1Gl1D1Q=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		c5BsZdBs3IlMK/Z4X1Rr1QqMelk=
+		wecdVyyF/FobKGDd29Bx9OGAbtQ=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		C3bk13wby7QppiMmTbO1CIiNLFo=
+		NYGNmtwhY4OAG76oX5hetIdQCdg=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		9eAV0AN+mXbdes53lHKhiuge9W0=
+		dIr56GPuDVMDYvHNX40JlovNm4A=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		vOoAq/rmY/7HxdG7KePTLotK5oc=
+		8nRqBhIl2/3EWdu/pAQhk903qsc=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		TJddLaDQNebXgtsqG61o+XN5MI4=
+		Gy10wwYs+0MV858awQCJrTtX1N0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES</key>
 		<data>
-		s+4tCu7MyiF7JoQja/DuGuirjBM=
+		tzcqrnWZTQhIkoGY5fkpaK+Y+iE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -142,7 +142,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		SXTpGhlZXi5dMOe9N6AtDvdv9Tc=
+		uCXgb+JnJEoXLgxSoUJ1mNJdJPw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/fonts/AlegreyaSans-Bold.ttf</key>
 		<data>
@@ -220,6 +220,18 @@
 		<data>
 		GQZCpXMybn3RCh1MXi5WGSJg97k=
 		</data>
+		<key>Frameworks/flutter_statusbarcolor.framework/Info.plist</key>
+		<data>
+		eO0xadwVaKri8+DBeZd35VlXB5Q=
+		</data>
+		<key>Frameworks/flutter_statusbarcolor.framework/_CodeSignature/CodeResources</key>
+		<data>
+		VMYi9OfwtKEBd+QarNLho+H03D4=
+		</data>
+		<key>Frameworks/flutter_statusbarcolor.framework/flutter_statusbarcolor</key>
+		<data>
+		qpwEqWQrED5aVchsPRdT//MDhMI=
+		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
 		rrAp64iPhUL40XQR7JlGMDIZaMA=
@@ -278,7 +290,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		16mxzhqI4G2YnHc6XyLl87TjgME=
+		mWLb4xmkSURzn7ASHodccFI4p5g=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -511,11 +523,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			twC64jbSJpOmNRtQpPz9IM+fETE=
+			e1b+PYFpV+pPHe6Ks7PR1Gl1D1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			lYtUv995g+O56UdBwgL+MLr78jcoDuQKc5TkbFtZZP4=
+			a7ooRm5l/Ee98/lNd9DWugaSlCRieEHG6jVA+PtXp3Y=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -533,22 +545,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c5BsZdBs3IlMK/Z4X1Rr1QqMelk=
+			wecdVyyF/FobKGDd29Bx9OGAbtQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			gogUFIqSQApGDyY8H0fqiB4Os4MhL59BE/hNR5K3PLU=
+			WJUeE3bHGdgEokNq0sQAMcMnQxHEscwtVEpxIOF0TxA=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C3bk13wby7QppiMmTbO1CIiNLFo=
+			NYGNmtwhY4OAG76oX5hetIdQCdg=
 			</data>
 			<key>hash2</key>
 			<data>
-			A9d1zYYA0YxkRRPy3cmvD1NWq24G/xNoVnndwTGcBMQ=
+			RRkHSnLWcROy7TVQJjktsKS5KcRIcWO76wxsZU42aGc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -566,22 +578,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9eAV0AN+mXbdes53lHKhiuge9W0=
+			dIr56GPuDVMDYvHNX40JlovNm4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			CTwp6nC/bm66zlFg7KtaU3z6IkvZHkJso4Y4uh8Ffdw=
+			YS6jZ+c7MgMLojxSjtpjOh0qP6alOs4e5RrimLSr4uw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vOoAq/rmY/7HxdG7KePTLotK5oc=
+			8nRqBhIl2/3EWdu/pAQhk903qsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			yu1a31x3sOufHGLEj8/t02hv1M2EM6I0Dm6P1I0/HwA=
+			mcPuNclKSsQJhvb6SsdqR1zB7IZ+uhvqTRkiMWt5cBw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -599,11 +611,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TJddLaDQNebXgtsqG61o+XN5MI4=
+			Gy10wwYs+0MV858awQCJrTtX1N0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7ZT1gqQzUmWFJ4GsIEXadiADnOh+TPDbSAsuTqj85ys=
+			fUd8AdB3fLIyXSV1OOe1Udw/WGT8jXaSj2xyryDkol0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -632,11 +644,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s+4tCu7MyiF7JoQja/DuGuirjBM=
+			tzcqrnWZTQhIkoGY5fkpaK+Y+iE=
 			</data>
 			<key>hash2</key>
 			<data>
-			WdWxzGbY+CyTCZxUL+tsxAiRiwRxucgA3kQKL2mXSdc=
+			tWPbeUOIqLYnlASZUUzrNUkbC+KIJPrAy0wDV6hs4Hk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -665,11 +677,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SXTpGhlZXi5dMOe9N6AtDvdv9Tc=
+			uCXgb+JnJEoXLgxSoUJ1mNJdJPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			7gIP0gX9mtBI4Xwj635ZZxlZeoaO+ViMjNyFY06f3Qg=
+			vyds7ZtWsrpL9Ouy3qMhR7LoVdsuDm7dkBhGE4hkA6E=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lib/assets/fonts/AlegreyaSans-Bold.ttf</key>
@@ -879,6 +891,39 @@
 			<key>hash2</key>
 			<data>
 			PxmoJrR/h+ORdYBLNxblG7h3l/244/4/McWAKWZ0TDY=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_statusbarcolor.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eO0xadwVaKri8+DBeZd35VlXB5Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			JSe3iMivjRAJ4n+4QBnocG6rAF7ozNxzX7RZZI9ScMo=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_statusbarcolor.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VMYi9OfwtKEBd+QarNLho+H03D4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vwhu7KRhrxC8bpj5SHPNs8F5R9gdv0uV2MFoJ0iTHz0=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_statusbarcolor.framework/flutter_statusbarcolor</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qpwEqWQrED5aVchsPRdT//MDhMI=
+			</data>
+			<key>hash2</key>
+			<data>
+			6rXluhTgxk/dyybYYuDqE/4rtIkHcapTvB4aspkaGQE=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>

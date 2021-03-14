@@ -9,13 +9,14 @@ class TabButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return (
       Tab(
-        child: Text(
+        child: Container(
+          child: Text(
           '$tabTitle',
           style: TextStyle(
             fontWeight: FontWeight.w700,
-            color: Color.fromARGB(255, 220, 221, 222),
           ),
         ),
+        )
       )
     );
   }

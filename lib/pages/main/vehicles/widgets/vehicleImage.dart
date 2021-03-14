@@ -12,7 +12,14 @@ class VehicleImage extends StatelessWidget {
         height: 150,
         margin: EdgeInsets.only(bottom: 10),
         decoration: BoxDecoration(
-          borderRadius: BorderRadius.all(Radius.circular(5)),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.black.withOpacity(0.5),
+              spreadRadius: 2,
+              blurRadius: 7,
+              offset: Offset(0, 0), // changes position of shadow
+            ),
+          ],
           image: DecorationImage(
             image: AssetImage("$imageName"),
             fit: BoxFit.cover,
