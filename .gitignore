@@ -2,3 +2,4 @@
 .dart_tool/package_config_subset
 .packages
 build/
+.dart_tool/
