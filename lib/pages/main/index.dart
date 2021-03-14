@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'loadouts/index.dart';
-import 'vehicles/index.dart';
 import 'weapons/index.dart';
+import 'vehicles/index.dart';
+import 'operators/index.dart';
 import 'map/index.dart';
 
 class MainPage extends StatelessWidget {
@@ -29,6 +30,9 @@ class Categories extends StatelessWidget {
         Category(
             categoryName: 'Vehicles',
             categoryImage: 'lib/assets/images/vehicles.jpg'),
+        Category(
+            categoryName: 'Operators',
+            categoryImage: 'lib/assets/images/operators.jpg'),
       ],
     ));
   }
@@ -84,6 +88,14 @@ class Category extends StatelessWidget {
                   Navigator.push(
                     context,
                     MaterialPageRoute(builder: (context) => VehiclesPage()),
+                  );
+                }
+                break;
+              case 'Operators':
+                {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => OperatorsPage()),
                   );
                 }
                 break;
