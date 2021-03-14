@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		+Dq4OSd7TLAF/h9NajWtcFwZ4pE=
+		Ay+mLooMlpxIcmC6zNy19HWpmZs=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>flutter_assets/NOTICES</key>
 		<data>
-		tzcqrnWZTQhIkoGY5fkpaK+Y+iE=
+		cLlekntdJOGBFhX13hc9m8YRARg=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		uCXgb+JnJEoXLgxSoUJ1mNJdJPw=
+		bmjt/+yjd7EczbMIX78ytHjhwWk=
 		</data>
 		<key>flutter_assets/lib/assets/fonts/AlegreyaSans-Bold.ttf</key>
 		<data>
@@ -84,6 +84,94 @@
 		<data>
 		UVHYQLiLn8gZFiu51kE5OK1JscI=
 		</data>
+		<key>flutter_assets/lib/assets/images/weapons/ak-47.jpeg</key>
+		<data>
+		1oDN+b2SNTT141MT+yPbC6oahSA=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/an-94.jpeg</key>
+		<data>
+		38stet+c0q3aQARiuZnyEvoq1w0=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/as-val.jpeg</key>
+		<data>
+		mqLVaYUd7buEn6w62KzDzN1RGRY=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/aug.jpeg</key>
+		<data>
+		EDA/UG+gcyJa0Vf3mJiLD/tstbQ=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/cr-56-amax.jpeg</key>
+		<data>
+		0jfjuTuFj7hCSWiiukwqabi5q6o=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/fal.jpeg</key>
+		<data>
+		zgKeT7pKfuZBxsxKR/igp+hhPjo=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/fennec.jpeg</key>
+		<data>
+		fnZjb8sP/1x13XXMJfOmCkwHZvc=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/fn-scar-17.jpeg</key>
+		<data>
+		oEPWCMbe1dBidABFLwOtIHfOa9I=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/fr-556.jpeg</key>
+		<data>
+		akxK4kss8ZYUsF5bKxMDrzm58CE=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/grau-556.jpeg</key>
+		<data>
+		34e5vAJ4TT4xFrELBgcIxidVwtw=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/iso.jpeg</key>
+		<data>
+		RJX547DgHHGC7NYyxMRuMgxzf10=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/kilo-141.jpeg</key>
+		<data>
+		tQsw2ryDZpj7HTagsI6IbCZJh/M=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/m13.webp</key>
+		<data>
+		GR/4WhcXn5/0sKbOWotgLg/CJhw=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/m4a1.jpeg</key>
+		<data>
+		eXPYZ0gDKUwbmmFEJ5KM7LVDnBc=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/mp5.jpeg</key>
+		<data>
+		vfKAw4ZWyS8T69fRPZbnS4pLj5Y=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/mp7.jpeg</key>
+		<data>
+		uoK9+tJxa5N38QMDPPfuSY28cB8=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/oden.jpeg</key>
+		<data>
+		wtf2TaimLYO+bkoNhfGlNoM5KPQ=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/p90.jpeg</key>
+		<data>
+		2SRVGmg07B7j+ijHebqdjIYkT5w=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/pp19-bizon.jpeg</key>
+		<data>
+		4/WoF1TObjpC6CxIhgbNGnWZsJs=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/ram-7.jpeg</key>
+		<data>
+		VI56nvX016F4bj7XjCryjGIHAH8=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/striker-45.jpeg</key>
+		<data>
+		Gpcl0+9Pt3vEP7ecN4ZUenQ4D/w=
+		</data>
+		<key>flutter_assets/lib/assets/images/weapons/uzi.jpeg</key>
+		<data>
+		qXIOONXTs8fUEU3aHt7uUU7nfPA=
+		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		P7bb/oR3EhwqCIH1M6LyTuBIWYU=
@@ -99,11 +187,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Dq4OSd7TLAF/h9NajWtcFwZ4pE=
+			Ay+mLooMlpxIcmC6zNy19HWpmZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Cyu3pqYfZfuOzMBxlf+eqNfByBUowgDkYi7fGT5/rJw=
+			Lxsr20J9q0eSX7OSupMwOqghUn/IApU4b7R8/m9pYmw=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -121,11 +209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tzcqrnWZTQhIkoGY5fkpaK+Y+iE=
+			cLlekntdJOGBFhX13hc9m8YRARg=
 			</data>
 			<key>hash2</key>
 			<data>
-			tWPbeUOIqLYnlASZUUzrNUkbC+KIJPrAy0wDV6hs4Hk=
+			dyg+2sU11dq37M4fO4zHgnmBn22/nB1YRtaimMSmjyA=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -154,11 +242,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uCXgb+JnJEoXLgxSoUJ1mNJdJPw=
+			bmjt/+yjd7EczbMIX78ytHjhwWk=
 			</data>
 			<key>hash2</key>
 			<data>
-			vyds7ZtWsrpL9Ouy3qMhR7LoVdsuDm7dkBhGE4hkA6E=
+			+KvD5rn4hO2IUI0xuqftlOyHq3fUsjmEZ6kK6tTLRFg=
 			</data>
 		</dict>
 		<key>flutter_assets/lib/assets/fonts/AlegreyaSans-Bold.ttf</key>
@@ -302,6 +390,248 @@
 			<key>hash2</key>
 			<data>
 			z5fOEZ2odPOsXwB0Dlh+ogTe4j2dXtglOTlujABzqrA=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/ak-47.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1oDN+b2SNTT141MT+yPbC6oahSA=
+			</data>
+			<key>hash2</key>
+			<data>
+			1kiFkJ2O0P/NjI0DgajcVQ076oLie/74XnEs2Zt1ras=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/an-94.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			38stet+c0q3aQARiuZnyEvoq1w0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rrv4mK5QQLfHLp+1wlQUAqvgHAeeqHlbatES+6vFwUc=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/as-val.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mqLVaYUd7buEn6w62KzDzN1RGRY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Bv2XOEG/bQrAwotiyw1R3cyOtZgHScjpVr71NKY2eC8=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/aug.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EDA/UG+gcyJa0Vf3mJiLD/tstbQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			G7jdA+9OkLp52KbN6VzOv9g0FoR8mzPNLP8SKWQnPCA=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/cr-56-amax.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0jfjuTuFj7hCSWiiukwqabi5q6o=
+			</data>
+			<key>hash2</key>
+			<data>
+			MQzlAHak4eXbd/AEcADOwpMmcuBrnZze7geasW8yCXM=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/fal.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zgKeT7pKfuZBxsxKR/igp+hhPjo=
+			</data>
+			<key>hash2</key>
+			<data>
+			PkwkMEtWaO0zqCc1dqorN6q4hrNdjku5vbq1vsu7BXQ=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/fennec.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fnZjb8sP/1x13XXMJfOmCkwHZvc=
+			</data>
+			<key>hash2</key>
+			<data>
+			KMaTAaNitLlfk+SGflh2h060vKMbVk9HTHz0/X2EUFs=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/fn-scar-17.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oEPWCMbe1dBidABFLwOtIHfOa9I=
+			</data>
+			<key>hash2</key>
+			<data>
+			/FyK54MqoXmhVQbv924uPdeLNwBeu/wL2BbB5pbARQI=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/fr-556.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			akxK4kss8ZYUsF5bKxMDrzm58CE=
+			</data>
+			<key>hash2</key>
+			<data>
+			TPSecFZEv0mi5BQz9eE3u5d4XxrgHufTvfhjU1fjHjA=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/grau-556.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			34e5vAJ4TT4xFrELBgcIxidVwtw=
+			</data>
+			<key>hash2</key>
+			<data>
+			tUKwux8SM4ziV8bptcwBWHS9APv55IAzclOi0s0k5mY=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/iso.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RJX547DgHHGC7NYyxMRuMgxzf10=
+			</data>
+			<key>hash2</key>
+			<data>
+			J2Y/74ZnLquwmAWc70ivV5xAc5Ac4udaA1VsOuaSKZo=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/kilo-141.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tQsw2ryDZpj7HTagsI6IbCZJh/M=
+			</data>
+			<key>hash2</key>
+			<data>
+			PlcNjONYbC+oOOmQhsjWbzTbNDIhTAV3/FoXzVXIcbE=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/m13.webp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GR/4WhcXn5/0sKbOWotgLg/CJhw=
+			</data>
+			<key>hash2</key>
+			<data>
+			nLjdIjV1oRmD7y7H9e9+IcJvQ9KMSzPw1cvBDG+mGmQ=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/m4a1.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eXPYZ0gDKUwbmmFEJ5KM7LVDnBc=
+			</data>
+			<key>hash2</key>
+			<data>
+			u00wZFK6ZS4UrWwDKQiJg5qWOoCMSixbwtZEJh/ppf4=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/mp5.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vfKAw4ZWyS8T69fRPZbnS4pLj5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			BBEri197o9+ZFlwx3hT3J1mJK8drCZ88m5S7q8CXBp4=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/mp7.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uoK9+tJxa5N38QMDPPfuSY28cB8=
+			</data>
+			<key>hash2</key>
+			<data>
+			I3JD+9Avv6YDBtZTiLNGYmaYlNZyTV+wPu7wZKUiVQM=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/oden.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wtf2TaimLYO+bkoNhfGlNoM5KPQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			sK4WwtjTHOvEzphnS1I5eX0Ds/LdTyFI2/4zBO3nblk=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/p90.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2SRVGmg07B7j+ijHebqdjIYkT5w=
+			</data>
+			<key>hash2</key>
+			<data>
+			k/1svhL9zzP399C1bdKG7Zn8a3mYdiIounNgMYo9OVg=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/pp19-bizon.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4/WoF1TObjpC6CxIhgbNGnWZsJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			hyt8h3ctG46r1QsISfRu3AUWnwi703rX+puwsGNR6ak=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/ram-7.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VI56nvX016F4bj7XjCryjGIHAH8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ADvzWMDvQJ2SoOYgRwF1aIaNOXyvCoUDIgXYS4gGSyo=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/striker-45.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Gpcl0+9Pt3vEP7ecN4ZUenQ4D/w=
+			</data>
+			<key>hash2</key>
+			<data>
+			iR868Y4uWiQhKBSvwV3yI1NchGNmwaGJb2iDcbX4wJU=
+			</data>
+		</dict>
+		<key>flutter_assets/lib/assets/images/weapons/uzi.jpeg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qXIOONXTs8fUEU3aHt7uUU7nfPA=
+			</data>
+			<key>hash2</key>
+			<data>
+			fSELV5eY0yNpBCC7am8dnm+/kCSN3a8jce4iS4k9I+s=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
