@@ -9,6 +9,29 @@ const WeaponsData = {
       "image": "lib/assets/images/weapons/assault-rifles/ak-47-bo.webp",
       "title": "AK-47",
       "type": "Black Ops",
+      "description":
+          "With one of the highest damage statistics in its category, the AK excels in mid-range combat and thanks to its consistent rate of fire, it can also prove effective in close-quarters scenarios",
+      "stats": {
+        "Damage": "38",
+        "DPS": "380",
+        "Time To Kill": "300ms",
+        "Shots To Kill": "4",
+        "Effective Range": "38.1",
+        "RPM": "600",
+        "Mag Size": "30",
+        "ADS": "300",
+        "Reload Speed": "2.6",
+        "Muzzle Velocity": "490",
+        "Vert. Recoil": "405",
+        "Hor. Recoil": "-84",
+        "Hipfire Accuracy": "7.5",
+        "Hipfire Accurac1": "7.5",
+        "Hipfire Accuracy2": "7.5",
+        "Hipfire Accuracy3": "7.5",
+        "Hipfire Accuracy34": "7.5",
+        "Hipfire Accuracy5": "7.5",
+        "Hipfire Accuracy6": "7.5",
+      },
     },
     {
       "image": "lib/assets/images/weapons/assault-rifles/xm4.webp",
@@ -105,5 +128,32 @@ const WeaponsData = {
       "title": "Kilo 141",
       "type": "MW",
     }
+  ],
+  "SMGS": [
+    {
+      "image": "lib/assets/images/weapons/smgs/lc10.png",
+      "title": "LC10",
+      "type": "Black Ops",
+    },
+    {
+      "image": "lib/assets/images/weapons/smgs/ksp-45.png",
+      "title": "KSP 45",
+      "type": "Black Ops",
+    },
+    {
+      "image": "lib/assets/images/weapons/smgs/ak-74u.webp",
+      "title": "AK-74u",
+      "type": "Black Ops",
+    },
+    {
+      "image": "lib/assets/images/weapons/smgs/mp5-bo.png",
+      "title": "MP5",
+      "type": "Black Ops",
+    },
+    {
+      "image": "lib/assets/images/weapons/smgs/milano-821.png",
+      "title": "Milano 821",
+      "type": "Black Ops",
+    },
   ]
 };

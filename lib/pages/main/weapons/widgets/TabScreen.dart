@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:my_app/data/weapons.dart';
 import 'package:my_app/pages/main/weapons/widgets/WeaponImage.dart';
 import './WeaponTitle.dart';
+import './FullWeapon.dart';
 
 class TabScreen extends StatelessWidget {
   final List weapons;
@@ -20,18 +21,34 @@ class TabScreen extends StatelessWidget {
         return (Container(
           height: 150,
           margin: EdgeInsets.only(bottom: 10),
-          padding: EdgeInsets.symmetric(vertical: 10),
           decoration: BoxDecoration(
             color: Color.fromARGB(40, 125, 124, 124),
+            boxShadow: [
+              BoxShadow(
+                color: Colors.black.withOpacity(0.5),
+                spreadRadius: 2,
+                blurRadius: 7,
+                offset: Offset(0, 0), // changes position of shadow
+              ),
+            ]
           ),
-          child: Stack(
+          child: InkWell(
+            highlightColor: Color.fromARGB(255, 60, 61, 77),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => FullWeapon(weapon: WeaponsData['$type'][index])),
+              );
+            },
+            child: Stack(
             children: <Widget>[
               WeaponImage(WeaponsData['$type'][index]['image']),
               WeaponTitle(
                   title: WeaponsData['$type'][index]['title'],
                   type: WeaponsData['$type'][index]['type'])
-            ],
-          ),
+              ],
+            ),
+          )
         ));
       },
     ));

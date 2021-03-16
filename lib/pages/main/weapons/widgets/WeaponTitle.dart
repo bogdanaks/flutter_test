@@ -13,6 +13,7 @@ class WeaponTitle extends StatelessWidget {
     return (Container(
       height: 150,
       padding: EdgeInsets.symmetric(horizontal: 10),
+      margin: EdgeInsets.only(bottom: 5),
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.end,
         mainAxisAlignment: MainAxisAlignment.spaceBetween,

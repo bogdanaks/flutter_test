@@ -44,7 +44,9 @@ class WeaponsPage extends StatelessWidget {
               TabScreen(
                   weapons: WeaponsData['ASSAULT_RIFLES'],
                   type: 'ASSAULT_RIFLES'),
-              Icon(Icons.directions_transit),
+              TabScreen(
+                  weapons: WeaponsData['SMGS'],
+                  type: 'SMGS'),
               Icon(Icons.directions_bike),
               Icon(Icons.directions_bike),
               Icon(Icons.directions_bike),

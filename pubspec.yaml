@@ -27,6 +27,7 @@ flutter:
     - lib/assets/images/vehicles/
     - lib/assets/images/map/
     - lib/assets/images/weapons/assault-rifles/
+    - lib/assets/images/weapons/smgs/
 
   fonts:
     - family: AlegreyaSans
