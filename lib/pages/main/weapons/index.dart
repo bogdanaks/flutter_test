@@ -4,7 +4,7 @@ import 'package:bubble_tab_indicator/bubble_tab_indicator.dart';
 import 'package:my_app/data/weapons.dart';
 
 import './widgets/TabButton.dart';
-import './widgets/TabScreen.dart';
+import 'views/TabScreen.dart';
 
 class WeaponsPage extends StatelessWidget {
   @override
@@ -44,9 +44,7 @@ class WeaponsPage extends StatelessWidget {
               TabScreen(
                   weapons: WeaponsData['ASSAULT_RIFLES'],
                   type: 'ASSAULT_RIFLES'),
-              TabScreen(
-                  weapons: WeaponsData['SMGS'],
-                  type: 'SMGS'),
+              TabScreen(weapons: WeaponsData['SMGS'], type: 'SMGS'),
               Icon(Icons.directions_bike),
               Icon(Icons.directions_bike),
               Icon(Icons.directions_bike),

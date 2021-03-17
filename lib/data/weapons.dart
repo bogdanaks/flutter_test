@@ -25,12 +25,6 @@ const WeaponsData = {
         "Vert. Recoil": "405",
         "Hor. Recoil": "-84",
         "Hipfire Accuracy": "7.5",
-        "Hipfire Accurac1": "7.5",
-        "Hipfire Accuracy2": "7.5",
-        "Hipfire Accuracy3": "7.5",
-        "Hipfire Accuracy34": "7.5",
-        "Hipfire Accuracy5": "7.5",
-        "Hipfire Accuracy6": "7.5",
       },
     },
     {
